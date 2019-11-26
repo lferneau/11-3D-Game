@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/494480__erokia__piano-ambiance-msfxp4-200-120-bpm.wav-44fc44c2ea3a3e01f204dd23a08acc76.sample"
+
+[deps]
+
+source_file="res://Assets/SFX/494480__erokia__piano-ambiance-msfxp4-200-120-bpm.wav"
+dest_files=[ "res://.import/494480__erokia__piano-ambiance-msfxp4-200-120-bpm.wav-44fc44c2ea3a3e01f204dd23a08acc76.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
